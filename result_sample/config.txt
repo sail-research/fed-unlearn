@@ -1,0 +1,13 @@
+num_clients: 5
+batch_size: 128
+num_rounds
+    mnist: 50
+    cifar10: 100
+num_unlearn_rounds
+    mnist: 5
+    cifar10: 10
+num_post_training_rounds
+    mnist: 15
+    cifar10: 30
+poisoned_percent: 0.9
+lr: 1e-2
