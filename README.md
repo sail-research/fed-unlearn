@@ -9,5 +9,6 @@
 - Step 2: Create a folder name "models" in folder results.
 - Step 3: In config.py, set is_onboarding to False and run case0.py. Then, run case1.py, case2.py, case3.py, case4.py and case5.py.
 - Step 4: In config.py, set is_onboarding to True and run case1.py, case2.py, case3.py, case4.py and case5.py again.
-- Step 5: copy the generated pkl files in the results folder into the folder result_sample/with_onboarding.
-- Step 6: Adjust the configuration and run cells in the usage.ipynb in the result_sample folder.
+- Step 5: Create folders with_onboarding, without_onboarding and plot in result_sample folder.
+- Step 6: copy the generated pkl files in the results folder into the folder result_sample/with_onboarding.
+- Step 7: Adjust the configuration and run cells in the usage.ipynb in the result_sample folder.
